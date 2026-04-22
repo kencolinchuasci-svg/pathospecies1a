@@ -6,7 +6,7 @@
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Name" },
-		{ "type": "float", "index": 44, "name": "Frequency", "min": 0, "max": 5171 }
+		{ "type": "float", "index": 44, "name": "Frequency", "min": 0, "max": 5171 }]
 	],
 	"sets": [
 		{ "format": "binary", "start": 2, "end": 45 }
